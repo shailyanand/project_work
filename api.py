@@ -4,8 +4,13 @@
 
 def function():
     print("ab")
+    print("sub_branch")
     return None
 
 
 
-function()
+
+
+if __name__== "__main__":
+
+    function()
