@@ -3,6 +3,7 @@
 ### updated by: NA
 
 def function():
+    print("ab")
     return None
 
 
